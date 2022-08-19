@@ -10,9 +10,10 @@
   "author": "Goran Gligorin <goran@gligorin.com> (https://www.gorangligorin.com/)",
   "license": "ISC",
   "devDependencies": {
-    "prettier": "2.2.1"
+    "npm-check": "^6.0.1",
+    "prettier": "^2.7.1"
   },
   "dependencies": {
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.21"
   }
 }
